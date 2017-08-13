@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Jan Fincke",
+    "label": "Student",
+    "picture": "<IMAGE>",
+    "email": "jan.fincke@student.hamk.fi",
+    "phone": "+358451304874",
+    "summary": "The thrill of learning and challenging myself motivates me in my career. All the experience I've gained so far have made me not only efficient and organised, but also resilient. My stress tolerance is top notch and I remain calm in any situation. I make my decisions carefully to guarantee safety at work. Working in a team comes close to my heart and I deem it important to cheer people up, but I'm also able to work and think independently."
+    "location": {
+      "address": "Peltokuja 3 B 29",
+      "postalCode": "11130",
+      "city": "Riihimäki",
+      "countryCode": "Finland"
+    }
+  },
+  "education": [
+    {
+      "institution": "<INSTITUTION_NAME>",
+      "area": "<AREA_OF_STUDY>",
+      "studyType": "<STUDY_TYPE>",
+      "startDate": "<START_DATE>",
+      "endDate": "<END_DATE>",
+      "gpa": "<GRADE_POINT_AVERAGE>",
+      "summary": "<SUMMARY>",
+      "courses": [
+        "<COURSE_1>",
+        "<COURSE_2>",
+        "<COURSE_3>"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "<COMPANY_NAME>",
+      "position": "<POSITION>",
+      "website": "<COMPANY_WEBSITE>",
+      "startDate": "<START_DATE>",
+      "endDate": "<END_DATE>",
+      "summary": "<SUMMARY>",
+      "highlights": [
+        "<HIGHTLIGHT_1>",
+        "<HIGHTLIGHT_2>",
+        "<HIGHTLIGHT_3>"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "<DESCRIPTION_TITLE>",
+      "description": [
+        "<DESCRIPTION_1>",
+        "<DESCRIPTION_2>",
+        "<DESCRIPTION_3>"
+      ],
+      "skillDetails": [
+        {
+          "name": "<SKILL_NAME>",
+          "level": "<SKILL_LEVEL>",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "<LANGUAGE_NAME>",
+      "level": "<LANGUAGE_LEVEL>"
+    }
+  ],
